@@ -10,7 +10,7 @@ Encontrarás una estructura de proyecto conveniente para ese objetivo.
 4. Definir una función maximoDeTres que devuelve el máximo de sus argumentos enteros
 5. Implemente una función recursiva para calcular el factorial de un número
 
-## Compilado 02: Consignas Beta
+## Compilado 02: Consignas Omega
 1. Escribir una función que sume dos números enteros.
 2. Implementar una función que calcule el área de un círculo dado su radio.
 3. Definir una función que determine si un número es par o impar.
