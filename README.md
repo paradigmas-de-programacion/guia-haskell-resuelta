@@ -8,7 +8,6 @@ Encontrarás una estructura de proyecto conveniente para ese objetivo.
 2. Escribir una función para hallar la potencia de un número
 3. Definir una función menor que devuelve el menor de sus dos argumentos enteros
 4. Definir una función maximoDeTres que devuelve el máximo de sus argumentos enteros
-5. Implemente una función recursiva para calcular el factorial de un número
 
 ## Compilado 02: Consignas Omega
 1. Escribir una función que sume dos números enteros.
